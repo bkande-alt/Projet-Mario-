@@ -20,3 +20,4 @@ def all_track_links(content):
 track_links = all_track_links(all_track_links)
 print(f"Nombre de liens : {len(track_links)}")
 print(f"Liste de liens : {track_links}") 
+
